@@ -1,8 +1,8 @@
-# 02806_Sentiment Analysis of COVID-19
+# Sentiment Analysis of COVID-19
 
 For the full experience, please [click here](https://nbviewer.jupyter.org/github/wellace/02806_covid19/blob/master/%5B02806%20Project%20B%5D%20Sentiment%20Analysis%20of%20COVID-19.ipynb) to view on nbviewer. 
 
-## Motivation
+### Motivation
 
 The coronavirus outbreak, COVID-19 has taken the world by storm. Newsrooms filter tons of information every day — articles, official briefings, expert interviews etc. Medical personnel struggle to follow hundreds of scientific publications each week, concerning drug research, epidemiological reports, intervention policies and many more. Moreover, social network platforms need to reduce the noise and promote verified stories to avoid nurturing misinformed and terrified users.
 
