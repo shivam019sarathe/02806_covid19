@@ -1,6 +1,6 @@
 # 02806_Sentiment Analysis of COVID-19
 
-For the full experience
+For the full experience, please [click here](https://nbviewer.jupyter.org/github/wellace/02806_covid19/blob/master/%5B02806%20Project%20B%5D%20Sentiment%20Analysis%20of%20COVID-19.ipynb) to view on nbviewer. 
 
 ## Motivation
 
